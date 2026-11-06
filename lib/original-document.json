@@ -1,0 +1,4301 @@
+{
+  "slug": "dx-logistics",
+  "template": false,
+  "nodes": [
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "topbar"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "shell"
+          },
+          "children": [
+            {
+              "tag": "span",
+              "attrs": {},
+              "children": [
+                "DX Logistics · A Transformix Product"
+              ]
+            },
+            {
+              "tag": "span",
+              "attrs": {},
+              "children": [
+                "Omnichannel · WMS · 3PL Fulfillment"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "header",
+      "attrs": {
+        "class": "header"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "shell header-inner"
+          },
+          "children": [
+            {
+              "tag": "a",
+              "attrs": {
+                "aria-label": "DX Logistics",
+                "class": "logo",
+                "href": "#section-index"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "mark"
+                  },
+                  "children": [
+                    "D",
+                    {
+                      "tag": "b",
+                      "attrs": {},
+                      "children": [
+                        "X"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "logo-text"
+                  },
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attrs": {},
+                      "children": [
+                        "DX LOGISTICS"
+                      ]
+                    },
+                    {
+                      "tag": "small",
+                      "attrs": {},
+                      "children": [
+                        "BY TRANSFORMIX"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "aria-expanded": "false",
+                "aria-label": "فتح القائمة",
+                "class": "menu"
+              },
+              "children": [
+                "☰"
+              ]
+            },
+            {
+              "tag": "nav",
+              "attrs": {
+                "aria-label": "التنقل الرئيسي",
+                "class": "nav"
+              },
+              "children": [
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "class": "active",
+                    "href": "#section-index"
+                  },
+                  "children": [
+                    "الرئيسية"
+                  ]
+                },
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "class": "",
+                    "href": "#section-platform"
+                  },
+                  "children": [
+                    "المنصة"
+                  ]
+                },
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "class": "",
+                    "href": "#section-solutions"
+                  },
+                  "children": [
+                    "الحلول"
+                  ]
+                },
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "class": "",
+                    "href": "#section-integrations"
+                  },
+                  "children": [
+                    "التكاملات"
+                  ]
+                },
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "class": "",
+                    "href": "#section-warehouse-app"
+                  },
+                  "children": [
+                    "تطبيق المستودع"
+                  ]
+                },
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "class": "",
+                    "href": "#section-resources"
+                  },
+                  "children": [
+                    "المعرفة"
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "attrs": {
+                "class": "btn nav-btn",
+                "href": "#section-demo"
+              },
+              "children": [
+                "احجز عرضًا"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "main",
+      "attrs": {
+        "id": "section-index"
+      },
+      "children": [
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "hero"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "shell hero-grid"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "reveal"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "eyebrow"
+                      },
+                      "children": [
+                        "UNIFIED LOGISTICS & 3PL FULFILLMENT"
+                      ]
+                    },
+                    {
+                      "tag": "h1",
+                      "attrs": {},
+                      "children": [
+                        "من قنوات البيع إلى المستودع.",
+                        {
+                          "tag": "br",
+                          "attrs": {},
+                          "children": []
+                        },
+                        {
+                          "tag": "span",
+                          "attrs": {},
+                          "children": [
+                            "عملية مترابطة، منصة واحدة."
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "تجمع DX Logistics إدارة الطلبات متعددة القنوات، والتجار، والأصناف والمجموعات، والمستودعات، والتجهيز والشحن في نظام تشغيلي واحد؛ مع متابعة دقيقة للحالات والإجراءات التي تحتاج تدخلًا."
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "actions-row"
+                      },
+                      "children": [
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "class": "btn btn-primary",
+                            "href": "#section-demo"
+                          },
+                          "children": [
+                            "احجز عرضًا توضيحيًا ←"
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "class": "btn btn-outline",
+                            "href": "#section-platform"
+                          },
+                          "children": [
+                            "استكشف قدرات المنصة"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "pills"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "pill"
+                          },
+                          "children": [
+                            "Omnichannel OMS"
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "pill"
+                          },
+                          "children": [
+                            "Multi-Merchant 3PL"
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "pill"
+                          },
+                          "children": [
+                            "Warehouse Operations"
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "pill"
+                          },
+                          "children": [
+                            "Operational Control"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "appframe"
+                  },
+                  "children": [
+                    {
+                      "tag": "img",
+                      "attrs": {
+                        "alt": "واجهة حقيقية لإدارة الطلبات الحية في DX Logistics",
+                        "src": "/images/asset-01.webp"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "frame-foot"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "attrs": {},
+                          "children": [
+                            "DX LOGISTICS / LIVE ORDERS"
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "attrs": {},
+                          "children": [
+                            "PRODUCT INTERFACE"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "content": true,
+          "slot": true,
+          "pages": [
+            "home"
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "section"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "shell"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "section-head"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "kicker"
+                      },
+                      "children": [
+                        "BUILT FOR OPERATIONS"
+                      ]
+                    },
+                    {
+                      "tag": "h2",
+                      "attrs": {},
+                      "children": [
+                        "منظومة واحدة من استقبال الطلب إلى جاهزية الشحن"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "توفر المنصة رؤية مشتركة للطلبات والمستودعات والتجار، مع إجراءات واضحة لتنفيذ العمل ومتابعة الحالات."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "grid grid3"
+                  },
+                  "children": [
+                    {
+                      "tag": "article",
+                      "attrs": {
+                        "class": "card"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "num"
+                          },
+                          "children": [
+                            "01"
+                          ]
+                        },
+                        {
+                          "tag": "h3",
+                          "attrs": {},
+                          "children": [
+                            "الطلبات متعددة القنوات"
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "تجميع الطلبات من مصادر مختلفة ومتابعة المراحل والفلاتر وحالات التنفيذ."
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "class": "linkmore",
+                            "href": "#section-platform-orders"
+                          },
+                          "children": [
+                            "اكتشف المزيد ←"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "article",
+                      "attrs": {
+                        "class": "card"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "num"
+                          },
+                          "children": [
+                            "02"
+                          ]
+                        },
+                        {
+                          "tag": "h3",
+                          "attrs": {},
+                          "children": [
+                            "إدارة الاستثناءات والموافقات"
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "قائمة مستقلة للطلبات الموقوفة أو التي تحتاج موافقة، مع إظهار سبب الإجراء."
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "class": "linkmore",
+                            "href": "#section-platform-exceptions"
+                          },
+                          "children": [
+                            "اكتشف المزيد ←"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "article",
+                      "attrs": {
+                        "class": "card"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "num"
+                          },
+                          "children": [
+                            "03"
+                          ]
+                        },
+                        {
+                          "tag": "h3",
+                          "attrs": {},
+                          "children": [
+                            "المستودعات والمواقع"
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "إدارة عدة مستودعات، ومواقع التخزين، ومناطق التوصيل، ومكونات بيئة التشغيل."
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "class": "linkmore",
+                            "href": "#section-platform-hubs"
+                          },
+                          "children": [
+                            "اكتشف المزيد ←"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "article",
+                      "attrs": {
+                        "class": "card"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "num"
+                          },
+                          "children": [
+                            "04"
+                          ]
+                        },
+                        {
+                          "tag": "h3",
+                          "attrs": {},
+                          "children": [
+                            "الأصناف والمجموعات"
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "كتالوج متعدد التجار يدعم رموز الأصناف والباركود والمنتجات المجمعة."
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "class": "linkmore",
+                            "href": "#section-platform-catalog"
+                          },
+                          "children": [
+                            "اكتشف المزيد ←"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "article",
+                      "attrs": {
+                        "class": "card"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "num"
+                          },
+                          "children": [
+                            "05"
+                          ]
+                        },
+                        {
+                          "tag": "h3",
+                          "attrs": {},
+                          "children": [
+                            "تنفيذ طلبات 3PL"
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "تشغيل طلبات تجار متعددين، مع إسناد العمليات إلى المستودعات وإعداد الشحنات."
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "class": "linkmore",
+                            "href": "#section-solutions-thirdparty"
+                          },
+                          "children": [
+                            "اكتشف المزيد ←"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "article",
+                      "attrs": {
+                        "class": "card"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "num"
+                          },
+                          "children": [
+                            "06"
+                          ]
+                        },
+                        {
+                          "tag": "h3",
+                          "attrs": {},
+                          "children": [
+                            "عمليات المستودع على الهاتف"
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "واجهات مخصصة لفرق التشغيل داخل المستودعات، بجانب بيئة الإدارة المكتبية."
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "class": "linkmore",
+                            "href": "#section-warehouse-app"
+                          },
+                          "children": [
+                            "اكتشف المزيد ←"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "content": true,
+          "pages": [
+            "home"
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "section alt"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "shell"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "section-head"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "kicker"
+                      },
+                      "children": [
+                        "REAL PRODUCT EXPERIENCE"
+                      ]
+                    },
+                    {
+                      "tag": "h2",
+                      "attrs": {},
+                      "children": [
+                        "واجهات من النظام الفعلي"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "الصور المعروضة مأخوذة من DX Logistics، مع إخفاء بعض بيانات الحساب والتجار."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "screenmosaic"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "feature-visual"
+                          },
+                          "children": [
+                            {
+                              "tag": "img",
+                              "attrs": {
+                                "alt": "شاشة DX Logistics: متابعة الطلبات التي تتطلب موافقات أو إجراءات تشغيلية",
+                                "loading": "lazy",
+                                "src": "/images/asset-02.webp"
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "div",
+                              "attrs": {
+                                "class": "visual-caption"
+                              },
+                              "children": [
+                                "متابعة الطلبات التي تتطلب موافقات أو إجراءات تشغيلية"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "secondary-screens"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "tag": "div",
+                              "attrs": {
+                                "class": "feature-visual"
+                              },
+                              "children": [
+                                {
+                                  "tag": "img",
+                                  "attrs": {
+                                    "alt": "شاشة DX Logistics: إدارة المنتجات وربطها بالتجار",
+                                    "loading": "lazy",
+                                    "src": "/images/asset-03.webp"
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "visual-caption"
+                                  },
+                                  "children": [
+                                    "إدارة المنتجات وربطها بالتجار"
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "tag": "div",
+                              "attrs": {
+                                "class": "feature-visual"
+                              },
+                              "children": [
+                                {
+                                  "tag": "img",
+                                  "attrs": {
+                                    "alt": "شاشة DX Logistics: مناطق التوصيل المرتبطة بالمستودع",
+                                    "loading": "lazy",
+                                    "src": "/images/asset-04.webp"
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "visual-caption"
+                                  },
+                                  "children": [
+                                    "مناطق التوصيل المرتبطة بالمستودع"
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "content": true,
+          "pages": [
+            "home"
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "section"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "shell"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "section-head"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "kicker"
+                      },
+                      "children": [
+                        "WHO WE SERVE"
+                      ]
+                    },
+                    {
+                      "tag": "h2",
+                      "attrs": {},
+                      "children": [
+                        "مهيأة للشركات التي تدير عمليات متعددة الأطراف"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "من مراكز التنفيذ اللوجستي إلى العلامات التجارية التي تعمل عبر قنوات مختلفة."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "grid grid3"
+                  },
+                  "children": [
+                    {
+                      "tag": "article",
+                      "attrs": {
+                        "class": "card"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "num"
+                          },
+                          "children": [
+                            "3PL"
+                          ]
+                        },
+                        {
+                          "tag": "h3",
+                          "attrs": {},
+                          "children": [
+                            "شركات التنفيذ اللوجستي"
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "إدارة المستودعات وطلبات عدة تجار في بيئة تشغيل واحدة."
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "class": "linkmore",
+                            "href": "#section-solutions-thirdparty"
+                          },
+                          "children": [
+                            "اكتشف المزيد ←"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "article",
+                      "attrs": {
+                        "class": "card"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "num"
+                          },
+                          "children": [
+                            "ECOMMERCE"
+                          ]
+                        },
+                        {
+                          "tag": "h3",
+                          "attrs": {},
+                          "children": [
+                            "التجارة الإلكترونية"
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "متابعة الطلبات الواردة من القنوات المتصلة وتنظيم عمليات تجهيزها."
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "class": "linkmore",
+                            "href": "#section-solutions-commerce"
+                          },
+                          "children": [
+                            "اكتشف المزيد ←"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "article",
+                      "attrs": {
+                        "class": "card"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "num"
+                          },
+                          "children": [
+                            "WAREHOUSES"
+                          ]
+                        },
+                        {
+                          "tag": "h3",
+                          "attrs": {},
+                          "children": [
+                            "مراكز التخزين والتوزيع"
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "تنظيم المستودعات والمناطق والأصناف وعمليات التجهيز والشحن."
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "class": "linkmore",
+                            "href": "#section-solutions-warehouses"
+                          },
+                          "children": [
+                            "اكتشف المزيد ←"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "content": true,
+          "pages": [
+            "home"
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "section dark"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "shell"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "section-head"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "kicker"
+                      },
+                      "children": [
+                        "OPERATIONAL VISIBILITY"
+                      ]
+                    },
+                    {
+                      "tag": "h2",
+                      "attrs": {},
+                      "children": [
+                        "التحكم في الحالات، لا مجرد عرض الأرقام"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "تعطي شاشة الإجراءات المعلقة فريق التشغيل نقطة مركزية لمراجعة الطلبات التي تحتاج إلى قرار، بينما تتيح شاشة الطلبات الحية متابعة مراحل التنفيذ."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "grid grid3"
+                  },
+                  "children": [
+                    {
+                      "tag": "article",
+                      "attrs": {
+                        "class": "card"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "num"
+                          },
+                          "children": [
+                            "01"
+                          ]
+                        },
+                        {
+                          "tag": "h3",
+                          "attrs": {},
+                          "children": [
+                            "أسباب واضحة للتعليق"
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "تمييز البيانات الناقصة والإيقاف اليدوي ضمن طلبات الموافقة."
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "class": "linkmore",
+                            "href": "#section-platform-exceptions"
+                          },
+                          "children": [
+                            "اكتشف المزيد ←"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "article",
+                      "attrs": {
+                        "class": "card"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "num"
+                          },
+                          "children": [
+                            "02"
+                          ]
+                        },
+                        {
+                          "tag": "h3",
+                          "attrs": {},
+                          "children": [
+                            "عمليات متعددة المستودعات"
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "البحث حسب المستودع والتاجر والمصدر مع إمكانية إسناد الطلبات."
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "class": "linkmore",
+                            "href": "#section-platform-hubs"
+                          },
+                          "children": [
+                            "اكتشف المزيد ←"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "article",
+                      "attrs": {
+                        "class": "card"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "num"
+                          },
+                          "children": [
+                            "03"
+                          ]
+                        },
+                        {
+                          "tag": "h3",
+                          "attrs": {},
+                          "children": [
+                            "عمليات منظمة"
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "إجراءات جماعية وموجات التقاط وتجهيز وشحن ضمن قوائم التشغيل."
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "class": "linkmore",
+                            "href": "#section-platform-orders"
+                          },
+                          "children": [
+                            "اكتشف المزيد ←"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "content": true,
+          "pages": [
+            "home"
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "section"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "shell"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "grid grid2"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "section-head"
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "attrs": {
+                                "class": "kicker"
+                              },
+                              "children": [
+                                "WAREHOUSE MOBILE"
+                              ]
+                            },
+                            {
+                              "tag": "h2",
+                              "attrs": {},
+                              "children": [
+                                "عمليات المستودعات تمتد إلى الأجهزة المحمولة"
+                              ]
+                            },
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "يوفر المنتج تجربة مخصصة لموظفي المستودعات، وتتكامل مع إدارة الطلبات والمواقع التشغيلية. سيتم إضافة صور التطبيق الفعلية داخل القسم فور توفرها."
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "class": "btn btn-outline",
+                            "href": "#section-warehouse-app"
+                          },
+                          "children": [
+                            "استكشف تجربة المستودع ←"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "placeholder"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "symbol"
+                          },
+                          "children": [
+                            "▯"
+                          ]
+                        },
+                        {
+                          "tag": "strong",
+                          "attrs": {},
+                          "children": [
+                            "صور تطبيق فريق المستودع على الموبايل"
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "لقطة شاشة من تسجيل الدخول أو المهام، ولقطة لمسح الباركود أو تجهيز الطلب."
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "content": true,
+          "pages": [
+            "home"
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "section alt"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "shell"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "section-head"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "kicker"
+                      },
+                      "children": [
+                        "PRODUCT ROADMAP"
+                      ]
+                    },
+                    {
+                      "tag": "h2",
+                      "attrs": {},
+                      "children": [
+                        "امتداد المنصة إلى التوصيل في الميل الأخير"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "التوسع المقبل يستكمل دورة الطلب بعد مغادرة المستودع إلى عنوان المستلم."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "coming-block"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "tag coming"
+                      },
+                      "children": [
+                        "COMING SOON"
+                      ]
+                    },
+                    {
+                      "tag": "h3",
+                      "attrs": {},
+                      "children": [
+                        "DX Delivery — Last-Mile Delivery App"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "تطبيق مخصص لمندوبي التوصيل وإدارة المهام وحالات التسليم وإثبات الاستلام والتعامل مع استثناءات التوصيل."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "content": true,
+          "pages": [
+            "home"
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "section"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "shell"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "banner"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "h2",
+                          "attrs": {},
+                          "children": [
+                            "شاهد DX Logistics في بيئة تشغيل حقيقية"
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "استعرض رحلة الطلب، وإدارة المستودعات، والتجار، والتحكم في عمليات التنفيذ مع فريق Transformix."
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "class": "btn",
+                        "href": "#section-demo"
+                      },
+                      "children": [
+                        "احجز عرضًا توضيحيًا ←"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "content": true,
+          "pages": [
+            "home"
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "site-page",
+            "id": "section-platform"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "section-boundary"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "المنصة"
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "pagehero"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "shell"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "kicker"
+                      },
+                      "children": [
+                        "THE PLATFORM"
+                      ]
+                    },
+                    {
+                      "tag": "h1",
+                      "attrs": {},
+                      "children": [
+                        "المنصة: إدارة تشغيلية موحدة"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "وحدات مترابطة لإدارة الطلبات، متابعة الاستثناءات، تنظيم بيانات الأصناف، وتشغيل المستودعات ومناطق التوصيل."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "section"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "shell"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "id": "section-platform-orders"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "feature"
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "tag": "span",
+                                  "attrs": {
+                                    "class": "kicker"
+                                  },
+                                  "children": [
+                                    "ORDER MANAGEMENT SYSTEM"
+                                  ]
+                                },
+                                {
+                                  "tag": "h3",
+                                  "attrs": {},
+                                  "children": [
+                                    "إدارة الطلبات الحية"
+                                  ]
+                                },
+                                {
+                                  "tag": "p",
+                                  "attrs": {},
+                                  "children": [
+                                    "تتيح شاشة الطلبات رؤية الحالات التشغيلية عبر التجار والمستودعات، مع البحث والفلاتر وإجراءات إنشاء الطلبات ومتابعتها."
+                                  ]
+                                },
+                                {
+                                  "tag": "ul",
+                                  "attrs": {},
+                                  "children": [
+                                    {
+                                      "tag": "li",
+                                      "attrs": {},
+                                      "children": [
+                                        "عرض الطلبات بحسب مرحلة التنفيذ"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "li",
+                                      "attrs": {},
+                                      "children": [
+                                        "فلاتر التاجر والمستودع ومصدر الطلب وحالة الدفع"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "li",
+                                      "attrs": {},
+                                      "children": [
+                                        "إجراءات جماعية وموجات تجهيز وشحن ضمن وحدة الطلبات"
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "attrs": {
+                                "class": "feature-visual"
+                              },
+                              "children": [
+                                {
+                                  "tag": "img",
+                                  "attrs": {
+                                    "alt": "شاشة DX Logistics: شاشة Live Orders",
+                                    "loading": "lazy",
+                                    "src": "/images/asset-01.webp"
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "visual-caption"
+                                  },
+                                  "children": [
+                                    "شاشة Live Orders"
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "id": "section-platform-exceptions"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "feature"
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "tag": "span",
+                                  "attrs": {
+                                    "class": "kicker"
+                                  },
+                                  "children": [
+                                    "PENDING ACTIONS"
+                                  ]
+                                },
+                                {
+                                  "tag": "h3",
+                                  "attrs": {},
+                                  "children": [
+                                    "إدارة الموافقات والطلبات الموقوفة"
+                                  ]
+                                },
+                                {
+                                  "tag": "p",
+                                  "attrs": {},
+                                  "children": [
+                                    "تعزل المنصة الطلبات التي تحتاج مراجعة عن التدفق الاعتيادي، وتعرض سبب الوقف وربط الطلب بالتاجر والمستودع."
+                                  ]
+                                },
+                                {
+                                  "tag": "ul",
+                                  "attrs": {},
+                                  "children": [
+                                    {
+                                      "tag": "li",
+                                      "attrs": {},
+                                      "children": [
+                                        "قائمة مستقلة للطلبات المنتظرة للموافقة"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "li",
+                                      "attrs": {},
+                                      "children": [
+                                        "عرض أسباب مثل نقص البيانات والإيقاف اليدوي"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "li",
+                                      "attrs": {},
+                                      "children": [
+                                        "إجراءات الموافقة أو الإلغاء أو إعادة إسناد المستودع وفق صلاحيات المستخدم"
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "attrs": {
+                                "class": "feature-visual"
+                              },
+                              "children": [
+                                {
+                                  "tag": "img",
+                                  "attrs": {
+                                    "alt": "شاشة DX Logistics: شاشة Pending Actions",
+                                    "loading": "lazy",
+                                    "src": "/images/asset-02.webp"
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "visual-caption"
+                                  },
+                                  "children": [
+                                    "شاشة Pending Actions"
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "id": "section-platform-catalog"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "feature"
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "tag": "span",
+                                  "attrs": {
+                                    "class": "kicker"
+                                  },
+                                  "children": [
+                                    "PRODUCT CATALOG"
+                                  ]
+                                },
+                                {
+                                  "tag": "h3",
+                                  "attrs": {},
+                                  "children": [
+                                    "كتالوج الأصناف والباركود"
+                                  ]
+                                },
+                                {
+                                  "tag": "p",
+                                  "attrs": {},
+                                  "children": [
+                                    "إدارة بيانات الأصناف الخاصة بالتجار في سجل منظم يتضمن الحالة والأسعار والباركود وإعدادات مرتبطة بالقنوات البيعية."
+                                  ]
+                                },
+                                {
+                                  "tag": "ul",
+                                  "attrs": {},
+                                  "children": [
+                                    {
+                                      "tag": "li",
+                                      "attrs": {},
+                                      "children": [
+                                        "إنشاء الأصناف والبحث باستخدام الباركود أو رمز SKU"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "li",
+                                      "attrs": {},
+                                      "children": [
+                                        "عرض حالات المنتجات والأسعار"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "li",
+                                      "attrs": {},
+                                      "children": [
+                                        "قوائم مواد التغليف وإعدادات الباركود والربط بقنوات البيع"
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "attrs": {
+                                "class": "feature-visual"
+                              },
+                              "children": [
+                                {
+                                  "tag": "img",
+                                  "attrs": {
+                                    "alt": "شاشة DX Logistics: شاشة SKU Catalog",
+                                    "loading": "lazy",
+                                    "src": "/images/asset-03.webp"
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "visual-caption"
+                                  },
+                                  "children": [
+                                    "شاشة SKU Catalog"
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "feature"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "tag": "span",
+                              "attrs": {
+                                "class": "kicker"
+                              },
+                              "children": [
+                                "KITS & BUNDLES"
+                              ]
+                            },
+                            {
+                              "tag": "h3",
+                              "attrs": {},
+                              "children": [
+                                "المجموعات والمنتجات المركّبة"
+                              ]
+                            },
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "تنظيم مجموعات المنتجات التي تُباع كوحدة تجارية، مع تحديد العناصر المكوّنة وكميات كل عنصر."
+                              ]
+                            },
+                            {
+                              "tag": "ul",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "tag": "li",
+                                  "attrs": {},
+                                  "children": [
+                                    "إنشاء مجموعات جديدة لكل تاجر"
+                                  ]
+                                },
+                                {
+                                  "tag": "li",
+                                  "attrs": {},
+                                  "children": [
+                                    "ربط المنتجات المكونة بالمجموعة"
+                                  ]
+                                },
+                                {
+                                  "tag": "li",
+                                  "attrs": {},
+                                  "children": [
+                                    "إدارة الحالة ورمز المجموعة والسعر"
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "feature-visual"
+                          },
+                          "children": [
+                            {
+                              "tag": "img",
+                              "attrs": {
+                                "alt": "شاشة DX Logistics: شاشة Kits",
+                                "loading": "lazy",
+                                "src": "/images/asset-05.webp"
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "div",
+                              "attrs": {
+                                "class": "visual-caption"
+                              },
+                              "children": [
+                                "شاشة Kits"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "id": "section-platform-hubs"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "feature"
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "tag": "span",
+                                  "attrs": {
+                                    "class": "kicker"
+                                  },
+                                  "children": [
+                                    "MULTI-HUB MANAGEMENT"
+                                  ]
+                                },
+                                {
+                                  "tag": "h3",
+                                  "attrs": {},
+                                  "children": [
+                                    "مستودعات ومواقع تشغيل متعددة"
+                                  ]
+                                },
+                                {
+                                  "tag": "p",
+                                  "attrs": {},
+                                  "children": [
+                                    "إدارة مستودعات الشركة ومراكزها التشغيلية في واجهة واحدة، مع عرض المواقع وحالتها وبيانات التواصل وإعدادات التشغيل."
+                                  ]
+                                },
+                                {
+                                  "tag": "ul",
+                                  "attrs": {},
+                                  "children": [
+                                    {
+                                      "tag": "li",
+                                      "attrs": {},
+                                      "children": [
+                                        "تعريف مستودعات متعددة بحسب المدينة والنوع"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "li",
+                                      "attrs": {},
+                                      "children": [
+                                        "إدارة المواقع الداخلية والأجهزة والطابعات"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "li",
+                                      "attrs": {},
+                                      "children": [
+                                        "تقسيم التشغيل إلى مواقع ومناطق وأرفف ومحطات تغليف"
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "attrs": {
+                                "class": "feature-visual"
+                              },
+                              "children": [
+                                {
+                                  "tag": "img",
+                                  "attrs": {
+                                    "alt": "شاشة DX Logistics: شاشة All Hubs",
+                                    "loading": "lazy",
+                                    "src": "/images/asset-06.webp"
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "visual-caption"
+                                  },
+                                  "children": [
+                                    "شاشة All Hubs"
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "feature"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "tag": "span",
+                              "attrs": {
+                                "class": "kicker"
+                              },
+                              "children": [
+                                "DELIVERY ZONES"
+                              ]
+                            },
+                            {
+                              "tag": "h3",
+                              "attrs": {},
+                              "children": [
+                                "مناطق توصيل مرتبطة بالمستودعات"
+                              ]
+                            },
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "إنشاء مناطق خدمة جغرافية على الخريطة وإدارتها من داخل إعدادات المستودع، لدعم تقسيم نطاقات التوصيل."
+                              ]
+                            },
+                            {
+                              "tag": "ul",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "tag": "li",
+                                  "attrs": {},
+                                  "children": [
+                                    "رسم حدود مناطق الخدمة على الخريطة"
+                                  ]
+                                },
+                                {
+                                  "tag": "li",
+                                  "attrs": {},
+                                  "children": [
+                                    "تسمية المنطقة وتحديد حالتها"
+                                  ]
+                                },
+                                {
+                                  "tag": "li",
+                                  "attrs": {},
+                                  "children": [
+                                    "إدارة نطاقات الخدمة على مستوى المستودع"
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "feature-visual"
+                          },
+                          "children": [
+                            {
+                              "tag": "img",
+                              "attrs": {
+                                "alt": "شاشة DX Logistics: شاشة Delivery Zones",
+                                "loading": "lazy",
+                                "src": "/images/asset-04.webp"
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "div",
+                              "attrs": {
+                                "class": "visual-caption"
+                              },
+                              "children": [
+                                "شاشة Delivery Zones"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "section"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "shell"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "banner"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "tag": "h2",
+                              "attrs": {},
+                              "children": [
+                                "شاهد DX Logistics في بيئة تشغيل حقيقية"
+                              ]
+                            },
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "استعرض رحلة الطلب، وإدارة المستودعات، والتجار، والتحكم في عمليات التنفيذ مع فريق Transformix."
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "class": "btn",
+                            "href": "#section-demo"
+                          },
+                          "children": [
+                            "احجز عرضًا توضيحيًا ←"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "content": true,
+          "pages": [
+            "platform"
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "site-page",
+            "id": "section-solutions"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "section-boundary"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "الحلول"
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "pagehero"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "shell"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "kicker"
+                      },
+                      "children": [
+                        "SOLUTIONS BY OPERATING MODEL"
+                      ]
+                    },
+                    {
+                      "tag": "h1",
+                      "attrs": {},
+                      "children": [
+                        "منصة واحدة لفرق تشغيل مختلفة"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "تخدم DX Logistics عمليات التنفيذ اللوجستي متعددة التجار والتجارة الإلكترونية ومراكز التخزين والتوزيع."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "section"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "shell"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "id": "section-solutions-thirdparty"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "feature"
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "tag": "span",
+                                  "attrs": {
+                                    "class": "kicker"
+                                  },
+                                  "children": [
+                                    "3PL & MULTI-MERCHANT"
+                                  ]
+                                },
+                                {
+                                  "tag": "h3",
+                                  "attrs": {},
+                                  "children": [
+                                    "إدارة تنفيذ الطلبات للتجار المتعددين"
+                                  ]
+                                },
+                                {
+                                  "tag": "p",
+                                  "attrs": {},
+                                  "children": [
+                                    "تُهيئ DX Logistics فريق عمليات واحدًا لإدارة طلبات تجار مختلفين ومتابعة إسنادها إلى المستودعات، مع تنظيم بيانات الأصناف ومراحل التجهيز."
+                                  ]
+                                },
+                                {
+                                  "tag": "ul",
+                                  "attrs": {},
+                                  "children": [
+                                    {
+                                      "tag": "li",
+                                      "attrs": {},
+                                      "children": [
+                                        "الفصل بين الطلبات والمنتجات بحسب التاجر"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "li",
+                                      "attrs": {},
+                                      "children": [
+                                        "إدارة أكثر من مستودع"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "li",
+                                      "attrs": {},
+                                      "children": [
+                                        "متابعة الموافقات والاستثناءات"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "li",
+                                      "attrs": {},
+                                      "children": [
+                                        "شاشات تشغيل لتجهيز الطلبات والشحن"
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "attrs": {
+                                "class": "feature-visual"
+                              },
+                              "children": [
+                                {
+                                  "tag": "img",
+                                  "attrs": {
+                                    "alt": "شاشة DX Logistics: تشغيل الطلبات متعددة التجار",
+                                    "loading": "lazy",
+                                    "src": "/images/asset-01.webp"
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "visual-caption"
+                                  },
+                                  "children": [
+                                    "تشغيل الطلبات متعددة التجار"
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "id": "section-solutions-commerce"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "feature"
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "tag": "span",
+                                  "attrs": {
+                                    "class": "kicker"
+                                  },
+                                  "children": [
+                                    "OMNICHANNEL COMMERCE"
+                                  ]
+                                },
+                                {
+                                  "tag": "h3",
+                                  "attrs": {},
+                                  "children": [
+                                    "شركات التجارة الإلكترونية والعلامات التجارية"
+                                  ]
+                                },
+                                {
+                                  "tag": "p",
+                                  "attrs": {},
+                                  "children": [
+                                    "واجهة مركزية لمتابعة الطلبات القادمة من المصادر المتصلة، وإدارة حالات المعالجة ضمن دورة تشغيل واضحة."
+                                  ]
+                                },
+                                {
+                                  "tag": "ul",
+                                  "attrs": {},
+                                  "children": [
+                                    {
+                                      "tag": "li",
+                                      "attrs": {},
+                                      "children": [
+                                        "متابعة حالة الطلبات والمصدر والتاجر"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "li",
+                                      "attrs": {},
+                                      "children": [
+                                        "تنظيم الأصناف والباركود والمنتجات المجمعة"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "li",
+                                      "attrs": {},
+                                      "children": [
+                                        "تصفية الطلبات بحسب المستودع وحالة الدفع"
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "attrs": {
+                                "class": "feature-visual"
+                              },
+                              "children": [
+                                {
+                                  "tag": "img",
+                                  "attrs": {
+                                    "alt": "شاشة DX Logistics: إدارة كتالوج المنتجات",
+                                    "loading": "lazy",
+                                    "src": "/images/asset-03.webp"
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "visual-caption"
+                                  },
+                                  "children": [
+                                    "إدارة كتالوج المنتجات"
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "id": "section-solutions-warehouses"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "feature"
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "tag": "span",
+                                  "attrs": {
+                                    "class": "kicker"
+                                  },
+                                  "children": [
+                                    "WAREHOUSE OPERATORS"
+                                  ]
+                                },
+                                {
+                                  "tag": "h3",
+                                  "attrs": {},
+                                  "children": [
+                                    "المستودعات ومراكز التجهيز والتوزيع"
+                                  ]
+                                },
+                                {
+                                  "tag": "p",
+                                  "attrs": {},
+                                  "children": [
+                                    "تدعم المنصة فرق المستودعات من خلال تنظيم المواقع التشغيلية ومراحل تجهيز الطلبات وقوائم الأصناف والمجموعات."
+                                  ]
+                                },
+                                {
+                                  "tag": "ul",
+                                  "attrs": {},
+                                  "children": [
+                                    {
+                                      "tag": "li",
+                                      "attrs": {},
+                                      "children": [
+                                        "تعريف المواقع والمناطق الداخلية"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "li",
+                                      "attrs": {},
+                                      "children": [
+                                        "متابعة موجات التجهيز وإجراءات الشحن"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "li",
+                                      "attrs": {},
+                                      "children": [
+                                        "إدارة مناطق التوصيل لكل مستودع"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "li",
+                                      "attrs": {},
+                                      "children": [
+                                        "تجربة تطبيق مخصصة لموظفي المستودعات"
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "attrs": {
+                                "class": "feature-visual"
+                              },
+                              "children": [
+                                {
+                                  "tag": "img",
+                                  "attrs": {
+                                    "alt": "شاشة DX Logistics: إدارة المستودعات",
+                                    "loading": "lazy",
+                                    "src": "/images/asset-06.webp"
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "visual-caption"
+                                  },
+                                  "children": [
+                                    "إدارة المستودعات"
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "section"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "shell"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "banner"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "tag": "h2",
+                              "attrs": {},
+                              "children": [
+                                "شاهد DX Logistics في بيئة تشغيل حقيقية"
+                              ]
+                            },
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "استعرض رحلة الطلب، وإدارة المستودعات، والتجار، والتحكم في عمليات التنفيذ مع فريق Transformix."
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "class": "btn",
+                            "href": "#section-demo"
+                          },
+                          "children": [
+                            "احجز عرضًا توضيحيًا ←"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "content": true,
+          "pages": [
+            "solutions"
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "site-page",
+            "id": "section-integrations"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "section-boundary"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "التكاملات"
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "pagehero"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "shell"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "kicker"
+                      },
+                      "children": [
+                        "CONNECTED OPERATIONS"
+                      ]
+                    },
+                    {
+                      "tag": "h1",
+                      "attrs": {},
+                      "children": [
+                        "التكامل جزء من دورة التشغيل"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "تصمم DX Logistics إدارة الطلبات والمنتجات والمستودعات في نموذج واحد، مع إمكانات الربط بقنوات البيع والأنظمة المؤسسية بحسب نطاق التكامل المعتمد لكل عميل."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "section"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "shell"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "section-head"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "kicker"
+                          },
+                          "children": [
+                            "INTEGRATION LAYERS"
+                          ]
+                        },
+                        {
+                          "tag": "h2",
+                          "attrs": {},
+                          "children": [
+                            "من القناة التجارية إلى التنفيذ"
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "يتم اعتماد القنوات والتكاملات المحددة أثناء العرض الفني، وفق البيئات المتاحة للعميل."
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "grid grid3"
+                      },
+                      "children": [
+                        {
+                          "tag": "article",
+                          "attrs": {
+                            "class": "card"
+                          },
+                          "children": [
+                            {
+                              "tag": "span",
+                              "attrs": {
+                                "class": "num"
+                              },
+                              "children": [
+                                "01"
+                              ]
+                            },
+                            {
+                              "tag": "h3",
+                              "attrs": {},
+                              "children": [
+                                "قنوات البيع والمتاجر"
+                              ]
+                            },
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "ربط الطلبات والمنتجات مع قنوات البيع التي يعتمدها العميل ويجري تفعيلها ضمن المشروع."
+                              ]
+                            },
+                            {
+                              "tag": "a",
+                              "attrs": {
+                                "class": "linkmore",
+                                "href": "#section-demo"
+                              },
+                              "children": [
+                                "اكتشف المزيد ←"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "article",
+                          "attrs": {
+                            "class": "card"
+                          },
+                          "children": [
+                            {
+                              "tag": "span",
+                              "attrs": {
+                                "class": "num"
+                              },
+                              "children": [
+                                "02"
+                              ]
+                            },
+                            {
+                              "tag": "h3",
+                              "attrs": {},
+                              "children": [
+                                "أنظمة المؤسسات وERP"
+                              ]
+                            },
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "تبادل البيانات مع الأنظمة المالية والتشغيلية، ومنها Odoo عند اعتماد نطاق الربط."
+                              ]
+                            },
+                            {
+                              "tag": "a",
+                              "attrs": {
+                                "class": "linkmore",
+                                "href": "#section-demo"
+                              },
+                              "children": [
+                                "اكتشف المزيد ←"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "article",
+                          "attrs": {
+                            "class": "card"
+                          },
+                          "children": [
+                            {
+                              "tag": "span",
+                              "attrs": {
+                                "class": "num"
+                              },
+                              "children": [
+                                "03"
+                              ]
+                            },
+                            {
+                              "tag": "h3",
+                              "attrs": {},
+                              "children": [
+                                "عمليات الشحن"
+                              ]
+                            },
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "ربط بيانات الطلبات والشحن بالعمليات المعتمدة داخل بيئة العميل."
+                              ]
+                            },
+                            {
+                              "tag": "a",
+                              "attrs": {
+                                "class": "linkmore",
+                                "href": "#section-demo"
+                              },
+                              "children": [
+                                "اكتشف المزيد ←"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "grid grid2",
+                        "style": "margin-top:52px"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "tag": "div",
+                              "attrs": {
+                                "class": "section-head"
+                              },
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "kicker"
+                                  },
+                                  "children": [
+                                    "PRODUCT DATA"
+                                  ]
+                                },
+                                {
+                                  "tag": "h2",
+                                  "attrs": {},
+                                  "children": [
+                                    "قوائم المنتجات وربط القنوات"
+                                  ]
+                                },
+                                {
+                                  "tag": "p",
+                                  "attrs": {},
+                                  "children": [
+                                    "تضم قائمة الأصناف خيارًا لعرض قوائم المنتجات المرتبطة بقنوات البيع، مع إعدادات الباركود ومواد التغليف."
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "a",
+                              "attrs": {
+                                "class": "btn btn-outline",
+                                "href": "#section-demo"
+                              },
+                              "children": [
+                                "ناقش التكاملات المطلوبة ←"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "feature-visual"
+                          },
+                          "children": [
+                            {
+                              "tag": "img",
+                              "attrs": {
+                                "alt": "شاشة DX Logistics: إعدادات كتالوج المنتجات",
+                                "loading": "lazy",
+                                "src": "/images/asset-03.webp"
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "div",
+                              "attrs": {
+                                "class": "visual-caption"
+                              },
+                              "children": [
+                                "إعدادات كتالوج المنتجات"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "section"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "shell"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "banner"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "tag": "h2",
+                              "attrs": {},
+                              "children": [
+                                "شاهد DX Logistics في بيئة تشغيل حقيقية"
+                              ]
+                            },
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "استعرض رحلة الطلب، وإدارة المستودعات، والتجار، والتحكم في عمليات التنفيذ مع فريق Transformix."
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "class": "btn",
+                            "href": "#section-demo"
+                          },
+                          "children": [
+                            "احجز عرضًا توضيحيًا ←"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "content": true,
+          "pages": [
+            "integrations"
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "site-page",
+            "id": "section-warehouse-app"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "section-boundary"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "تطبيق المستودع"
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "pagehero"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "shell"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "kicker"
+                      },
+                      "children": [
+                        "WAREHOUSE MOBILE EXPERIENCE"
+                      ]
+                    },
+                    {
+                      "tag": "h1",
+                      "attrs": {},
+                      "children": [
+                        "العمل داخل المستودع، من الهاتف أيضًا"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "تتضمن DX Logistics تجربة تشغيل على الأجهزة المحمولة لموظفي المستودعات، إلى جانب شاشات الإدارة المركزية لمتابعة الطلبات والمستودعات."
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "tag"
+                      },
+                      "children": [
+                        "AVAILABLE IN MVP"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "section"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "shell"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "section-head"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "kicker"
+                          },
+                          "children": [
+                            "MOBILE OPERATIONS"
+                          ]
+                        },
+                        {
+                          "tag": "h2",
+                          "attrs": {},
+                          "children": [
+                            "أقرب إلى نقطة التنفيذ"
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "تصل تجربة فريق المستودع إلى بيئة العمل الميدانية عبر الأجهزة المحمولة."
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "grid grid2"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "placeholder"
+                          },
+                          "children": [
+                            {
+                              "tag": "span",
+                              "attrs": {
+                                "class": "symbol"
+                              },
+                              "children": [
+                                "▯"
+                              ]
+                            },
+                            {
+                              "tag": "strong",
+                              "attrs": {},
+                              "children": [
+                                "صورة تطبيق المستودع — قائمة المهام"
+                              ]
+                            },
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "لقطة فعلية لشاشة المهام أو استلام الطلبات على هاتف موظف المستودع."
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "placeholder"
+                          },
+                          "children": [
+                            {
+                              "tag": "span",
+                              "attrs": {
+                                "class": "symbol"
+                              },
+                              "children": [
+                                "▯"
+                              ]
+                            },
+                            {
+                              "tag": "strong",
+                              "attrs": {},
+                              "children": [
+                                "صورة تطبيق المستودع — تنفيذ المهمة"
+                              ]
+                            },
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "لقطة فعلية لشاشة التجهيز أو المسح بالباركود أو تأكيد العملية داخل التطبيق."
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "quote",
+                        "style": "margin-top:36px"
+                      },
+                      "children": [
+                        "تتكامل تجربة الهاتف مع منهج التشغيل المركزي: الطلبات، الأصناف، والمستودعات في بيئة عمل مترابطة."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "section"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "shell"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "banner"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "tag": "h2",
+                              "attrs": {},
+                              "children": [
+                                "شاهد DX Logistics في بيئة تشغيل حقيقية"
+                              ]
+                            },
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "استعرض رحلة الطلب، وإدارة المستودعات، والتجار، والتحكم في عمليات التنفيذ مع فريق Transformix."
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "class": "btn",
+                            "href": "#section-demo"
+                          },
+                          "children": [
+                            "احجز عرضًا توضيحيًا ←"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "content": true,
+          "pages": [
+            "warehouse-app"
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "site-page",
+            "id": "section-resources"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "section-boundary"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "المعرفة"
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "pagehero"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "shell"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "kicker"
+                      },
+                      "children": [
+                        "INSIGHTS & PRODUCT KNOWLEDGE"
+                      ]
+                    },
+                    {
+                      "tag": "h1",
+                      "attrs": {},
+                      "children": [
+                        "المعرفة اللوجستية وتطبيقاتها"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "موضوعات عملية لمتخصصي تشغيل المستودعات والتجارة متعددة القنوات وشركات التنفيذ اللوجستي."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "section"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "shell"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "section-head"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "kicker"
+                          },
+                          "children": [
+                            "PRACTICAL INSIGHTS"
+                          ]
+                        },
+                        {
+                          "tag": "h2",
+                          "attrs": {},
+                          "children": [
+                            "موضوعات تستحق القراءة"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "resource-list"
+                      },
+                      "children": [
+                        {
+                          "tag": "article",
+                          "attrs": {
+                            "class": "resource"
+                          },
+                          "children": [
+                            {
+                              "tag": "span",
+                              "attrs": {
+                                "class": "meta"
+                              },
+                              "children": [
+                                "OPERATIONS INSIGHT"
+                              ]
+                            },
+                            {
+                              "tag": "h3",
+                              "attrs": {},
+                              "children": [
+                                "كيف تنظم دورة الطلب بين قنوات البيع والمستودعات؟"
+                              ]
+                            },
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "قراءة عملية في إدارة المراحل والتخصيص والمتابعة ومعالجة الطلبات الموقوفة."
+                              ]
+                            },
+                            {
+                              "tag": "a",
+                              "attrs": {
+                                "class": "linkmore",
+                                "href": "#section-platform-orders"
+                              },
+                              "children": [
+                                "استكشف الوظائف ذات الصلة ←"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "article",
+                          "attrs": {
+                            "class": "resource"
+                          },
+                          "children": [
+                            {
+                              "tag": "span",
+                              "attrs": {
+                                "class": "meta"
+                              },
+                              "children": [
+                                "FULFILLMENT INSIGHT"
+                              ]
+                            },
+                            {
+                              "tag": "h3",
+                              "attrs": {},
+                              "children": [
+                                "إدارة المنتجات المجمعة في مراكز التنفيذ اللوجستي"
+                              ]
+                            },
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "دور كتالوج الأصناف والمجموعات والباركود في تنظيم عمليات التجهيز."
+                              ]
+                            },
+                            {
+                              "tag": "a",
+                              "attrs": {
+                                "class": "linkmore",
+                                "href": "#section-platform-catalog"
+                              },
+                              "children": [
+                                "شاهد كتالوج المنتجات ←"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "article",
+                          "attrs": {
+                            "class": "resource"
+                          },
+                          "children": [
+                            {
+                              "tag": "span",
+                              "attrs": {
+                                "class": "meta"
+                              },
+                              "children": [
+                                "WAREHOUSE INSIGHT"
+                              ]
+                            },
+                            {
+                              "tag": "h3",
+                              "attrs": {},
+                              "children": [
+                                "أهمية تقسيم مواقع التخزين ومناطق التوصيل"
+                              ]
+                            },
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "استخدام المستودعات المتعددة ومناطق الخدمة في تنظيم العمليات الميدانية."
+                              ]
+                            },
+                            {
+                              "tag": "a",
+                              "attrs": {
+                                "class": "linkmore",
+                                "href": "#section-platform-hubs"
+                              },
+                              "children": [
+                                "استكشف المستودعات ←"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "section"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "shell"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "banner"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "tag": "h2",
+                              "attrs": {},
+                              "children": [
+                                "شاهد DX Logistics في بيئة تشغيل حقيقية"
+                              ]
+                            },
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "استعرض رحلة الطلب، وإدارة المستودعات، والتجار، والتحكم في عمليات التنفيذ مع فريق Transformix."
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "class": "btn",
+                            "href": "#section-demo"
+                          },
+                          "children": [
+                            "احجز عرضًا توضيحيًا ←"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "content": true,
+          "pages": [
+            "resources"
+          ]
+        },
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "site-page",
+            "id": "section-demo"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "section-boundary"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "احجز عرضًا"
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "pagehero"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "shell"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "kicker"
+                      },
+                      "children": [
+                        "PRODUCT DEMONSTRATION"
+                      ]
+                    },
+                    {
+                      "tag": "h1",
+                      "attrs": {},
+                      "children": [
+                        "شاهد منصة DX Logistics"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "استعرض الوحدات التشغيلية الفعلية، وناقش حجم العمليات ومواقع التشغيل ونطاق التكاملات الذي يناسب شركتك."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "attrs": {
+                "class": "section alt"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "shell",
+                    "style": "max-width:950px"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "formbox"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "section-head"
+                          },
+                          "children": [
+                            {
+                              "tag": "span",
+                              "attrs": {
+                                "class": "kicker"
+                              },
+                              "children": [
+                                "REQUEST A DEMO"
+                              ]
+                            },
+                            {
+                              "tag": "h2",
+                              "attrs": {},
+                              "children": [
+                                "طلب عرض توضيحي"
+                              ]
+                            },
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "أدخل معلومات التواصل ونطاق عمليات شركتك."
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "form",
+                          "attrs": {
+                            "id": "section-demo-lead-form"
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "attrs": {
+                                "class": "formgrid"
+                              },
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "field"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "label",
+                                      "attrs": {
+                                        "for": "name"
+                                      },
+                                      "children": [
+                                        "الاسم الكامل *"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "input",
+                                      "attrs": {
+                                        "autocomplete": "name",
+                                        "id": "section-demo-name",
+                                        "name": "الاسم الكامل",
+                                        "required": ""
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "field"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "label",
+                                      "attrs": {
+                                        "for": "company"
+                                      },
+                                      "children": [
+                                        "اسم الشركة *"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "input",
+                                      "attrs": {
+                                        "id": "section-demo-company",
+                                        "name": "اسم الشركة",
+                                        "required": ""
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "field"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "label",
+                                      "attrs": {
+                                        "for": "email"
+                                      },
+                                      "children": [
+                                        "البريد الإلكتروني *"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "input",
+                                      "attrs": {
+                                        "autocomplete": "email",
+                                        "id": "section-demo-email",
+                                        "name": "البريد الإلكتروني",
+                                        "required": "",
+                                        "type": "email"
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "field"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "label",
+                                      "attrs": {
+                                        "for": "phone"
+                                      },
+                                      "children": [
+                                        "رقم الهاتف *"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "input",
+                                      "attrs": {
+                                        "id": "section-demo-phone",
+                                        "name": "الهاتف",
+                                        "required": "",
+                                        "type": "tel"
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "field"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "label",
+                                      "attrs": {
+                                        "for": "country"
+                                      },
+                                      "children": [
+                                        "الدولة *"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "select",
+                                      "attrs": {
+                                        "id": "section-demo-country",
+                                        "name": "الدولة",
+                                        "required": ""
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "option",
+                                          "attrs": {
+                                            "value": ""
+                                          },
+                                          "children": [
+                                            "اختر الدولة"
+                                          ]
+                                        },
+                                        {
+                                          "tag": "option",
+                                          "attrs": {},
+                                          "children": [
+                                            "السعودية"
+                                          ]
+                                        },
+                                        {
+                                          "tag": "option",
+                                          "attrs": {},
+                                          "children": [
+                                            "مصر"
+                                          ]
+                                        },
+                                        {
+                                          "tag": "option",
+                                          "attrs": {},
+                                          "children": [
+                                            "الإمارات"
+                                          ]
+                                        },
+                                        {
+                                          "tag": "option",
+                                          "attrs": {},
+                                          "children": [
+                                            "أخرى"
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "field"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "label",
+                                      "attrs": {
+                                        "for": "activity"
+                                      },
+                                      "children": [
+                                        "طبيعة النشاط"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "select",
+                                      "attrs": {
+                                        "id": "section-demo-activity",
+                                        "name": "النشاط"
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "option",
+                                          "attrs": {},
+                                          "children": [
+                                            "شركة 3PL"
+                                          ]
+                                        },
+                                        {
+                                          "tag": "option",
+                                          "attrs": {},
+                                          "children": [
+                                            "تجارة إلكترونية"
+                                          ]
+                                        },
+                                        {
+                                          "tag": "option",
+                                          "attrs": {},
+                                          "children": [
+                                            "مستودعات ومراكز توزيع"
+                                          ]
+                                        },
+                                        {
+                                          "tag": "option",
+                                          "attrs": {},
+                                          "children": [
+                                            "تجزئة"
+                                          ]
+                                        },
+                                        {
+                                          "tag": "option",
+                                          "attrs": {},
+                                          "children": [
+                                            "أخرى"
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "field"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "label",
+                                      "attrs": {
+                                        "for": "volume"
+                                      },
+                                      "children": [
+                                        "حجم الطلبات شهريًا"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "select",
+                                      "attrs": {
+                                        "id": "section-demo-volume",
+                                        "name": "حجم الطلبات"
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "option",
+                                          "attrs": {},
+                                          "children": [
+                                            "أقل من 1,000"
+                                          ]
+                                        },
+                                        {
+                                          "tag": "option",
+                                          "attrs": {},
+                                          "children": [
+                                            "1,000 – 10,000"
+                                          ]
+                                        },
+                                        {
+                                          "tag": "option",
+                                          "attrs": {},
+                                          "children": [
+                                            "10,001 – 50,000"
+                                          ]
+                                        },
+                                        {
+                                          "tag": "option",
+                                          "attrs": {},
+                                          "children": [
+                                            "أكثر من 50,000"
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "field"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "label",
+                                      "attrs": {
+                                        "for": "interest"
+                                      },
+                                      "children": [
+                                        "مجال الاهتمام"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "select",
+                                      "attrs": {
+                                        "id": "section-demo-interest",
+                                        "name": "الاهتمام"
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "option",
+                                          "attrs": {},
+                                          "children": [
+                                            "إدارة الطلبات"
+                                          ]
+                                        },
+                                        {
+                                          "tag": "option",
+                                          "attrs": {},
+                                          "children": [
+                                            "3PL والمستودعات"
+                                          ]
+                                        },
+                                        {
+                                          "tag": "option",
+                                          "attrs": {},
+                                          "children": [
+                                            "تطبيق موظفي المستودعات"
+                                          ]
+                                        },
+                                        {
+                                          "tag": "option",
+                                          "attrs": {},
+                                          "children": [
+                                            "التكاملات"
+                                          ]
+                                        },
+                                        {
+                                          "tag": "option",
+                                          "attrs": {},
+                                          "children": [
+                                            "عرض متكامل"
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "field full"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "label",
+                                      "attrs": {
+                                        "for": "notes"
+                                      },
+                                      "children": [
+                                        "متطلبات إضافية"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "textarea",
+                                      "attrs": {
+                                        "id": "section-demo-notes",
+                                        "name": "المتطلبات",
+                                        "placeholder": "عدد المستودعات، قنوات البيع، الأنظمة الحالية..."
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "field full"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "label",
+                                      "attrs": {},
+                                      "children": [
+                                        {
+                                          "tag": "input",
+                                          "attrs": {
+                                            "name": "الموافقة",
+                                            "required": "",
+                                            "style": "width:auto",
+                                            "type": "checkbox",
+                                            "value": "نعم"
+                                          },
+                                          "children": []
+                                        },
+                                        " أوافق على استخدام البيانات للتواصل بشأن طلب العرض."
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "field full"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "button",
+                                      "attrs": {
+                                        "class": "btn btn-primary",
+                                        "type": "submit"
+                                      },
+                                      "children": [
+                                        "تجهيز طلب العرض ←"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "div",
+                                      "attrs": {
+                                        "class": "notice",
+                                        "id": "section-demo-form-note",
+                                        "role": "status"
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "content": true,
+          "pages": [
+            "demo"
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "footer",
+      "attrs": {
+        "class": "footer"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "shell"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "footergrid"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "logo",
+                        "style": "color:white;margin-bottom:15px"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "mark"
+                          },
+                          "children": [
+                            "D",
+                            {
+                              "tag": "b",
+                              "attrs": {},
+                              "children": [
+                                "X"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "logo-text"
+                          },
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attrs": {},
+                              "children": [
+                                "DX LOGISTICS"
+                              ]
+                            },
+                            {
+                              "tag": "small",
+                              "attrs": {},
+                              "children": [
+                                "BY TRANSFORMIX"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "إدارة مترابطة للطلبات والمستودعات وتنفيذ الطلبات للتجار المتعددين، ضمن منصة تشغيل لوجستي موحدة."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "tag": "h4",
+                      "attrs": {},
+                      "children": [
+                        "استكشف"
+                      ]
+                    },
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "href": "#section-platform"
+                      },
+                      "children": [
+                        "المنصة"
+                      ]
+                    },
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "href": "#section-solutions"
+                      },
+                      "children": [
+                        "الحلول والقطاعات"
+                      ]
+                    },
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "href": "#section-integrations"
+                      },
+                      "children": [
+                        "التكاملات"
+                      ]
+                    },
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "href": "#section-warehouse-app"
+                      },
+                      "children": [
+                        "تطبيق المستودع"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "tag": "h4",
+                      "attrs": {},
+                      "children": [
+                        "تواصل"
+                      ]
+                    },
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "href": "#section-demo"
+                      },
+                      "children": [
+                        "احجز عرضًا"
+                      ]
+                    },
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "href": "#section-resources"
+                      },
+                      "children": [
+                        "المعرفة"
+                      ]
+                    },
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "href": "#section-index"
+                      },
+                      "children": [
+                        "الصفحة الرئيسية"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "copyright"
+              },
+              "children": [
+                "© 2026 DX Logistics · Transformix. All rights reserved."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": {
+    "#section-index": "/",
+    "#section-platform": "/platform",
+    "#section-platform-orders": "/platform#section-platform-orders",
+    "#section-platform-exceptions": "/platform#section-platform-exceptions",
+    "#section-platform-catalog": "/platform#section-platform-catalog",
+    "#section-platform-hubs": "/platform#section-platform-hubs",
+    "#section-solutions": "/solutions",
+    "#section-solutions-thirdparty": "/solutions#section-solutions-thirdparty",
+    "#section-solutions-commerce": "/solutions#section-solutions-commerce",
+    "#section-solutions-warehouses": "/solutions#section-solutions-warehouses",
+    "#section-integrations": "/integrations",
+    "#section-warehouse-app": "/warehouse-app",
+    "#section-resources": "/resources",
+    "#section-demo": "/demo"
+  },
+  "extracts": {},
+  "title": "DX Logistics | الموقع الكامل — إدارة الطلبات والمستودعات والخدمات اللوجستية",
+  "description": "DX Logistics منصة تشغيل موحدة لإدارة الطلبات متعددة القنوات والمستودعات والتجار وتنفيذ الطلبات لشركات 3PL."
+}

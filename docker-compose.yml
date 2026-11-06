@@ -1,0 +1,12 @@
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: transformix-dx-logistics
+    container_name: transformix-dx-logistics
+    restart: unless-stopped
+    ports:
+      - "3055:3000"
+    environment:
+      - NODE_ENV=production
